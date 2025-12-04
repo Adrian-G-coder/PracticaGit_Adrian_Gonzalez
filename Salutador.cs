@@ -4,7 +4,7 @@
     {
         public void Saluda(Persona p)
         {
-            Console.WriteLine($"Hola, {p.Nom}!");
+            Console.WriteLine($"Hola, {p.Nom} {p.Edat}!");
         }
     }
 }

@@ -6,7 +6,7 @@ namespace PracticaGit_Adrián_González
     {
         static void Main(string[] args) 
         { 
-            Persona persona = new Persona("Adrian");
+            Persona persona = new Persona("Adrian", 21);
 
             Salutador salutador = new Salutador();
 
