@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\bin\Debug\net8.0\PracticaGit_Adrián_González.exe
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\bin\Debug\net8.0\PracticaGit_Adrián_González.deps.json
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\bin\Debug\net8.0\PracticaGit_Adrián_González.runtimeconfig.json
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\bin\Debug\net8.0\PracticaGit_Adrián_González.dll
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\bin\Debug\net8.0\PracticaGit_Adrián_González.pdb
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\PracticaGit_Adrián_González.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\PracticaGit_Adrián_González.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\PracticaGit_Adrián_González.AssemblyInfo.cs
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\PracticaGit_Adrián_González.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\PracticaGit_Adrián_González.dll
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\refint\PracticaGit_Adrián_González.dll
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\PracticaGit_Adrián_González.pdb
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\PracticaGit_Adrián_González.genruntimeconfig.cache
+C:\Users\adria\source\repos\PracticaGit_Adrián_González\PracticaGit_Adrián_González\obj\Debug\net8.0\ref\PracticaGit_Adrián_González.dll
