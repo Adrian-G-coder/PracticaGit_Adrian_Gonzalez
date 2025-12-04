@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaGit_Adrián_González")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b7813c6c786979190bd3d276b1ff68885153ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaGit_Adrián_González")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaGit_Adrián_González")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
